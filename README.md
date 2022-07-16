@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eskechivoi
+- 👋 Hi, I’m @ferrodr
 - 👀 I’m interested in backend, graphic drivers, distributed apps and OS. 
 - 🌱 I’m currently learning GoLang, C++ and Java. 
 - 💞️ I’m looking to collaborate no distributed apps and OS programming. 
