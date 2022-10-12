@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Fernando
 #### I am a  IT student at University of Valladolid
-![I am a  IT student at University of Valladolid]
 
 I study at University of Valladolid, in Spain, and i am interested in developing `software solutions for IT systems`, `OS administration` and `cybersecurity audit`.
 
