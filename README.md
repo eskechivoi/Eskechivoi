@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferrodr
-- 👀 I’m interested in backend, graphic drivers, distributed apps and OS. 
-- 🌱 I’m currently learning GoLang, C++ and Java. 
-- 💞️ I’m looking to collaborate on distributed apps and OS programming. 
+- 👀 I’m interested in developing fullstack solutions for IT systems, distributed apps and OS administration. 
+- 🌱 I’m currently learning C++, Java, Python, JS and Shell. 
+- 💞️ I’m looking to collaborate on developing . 
 - 📫 How to reach me ...
 
 <!---
