@@ -15,6 +15,15 @@ Specific skills: LAMP Stack, Java J2EE, Bootstrap, jQuery
 - 🔭 I’m currently working on fullstack website desing, java cryptographic environment and C++ libraries. 
 - 🌱 I’m currently learning about developing software solutions for IT systems, OS administration and cybersecurity audit. 
 
+## Experience
+
+- Web Pentesting, certified by TCM Security Academy.
+- Full Stack development using Java J2EE.
+- Container management using docker.
+
+## Titles
+
+- B2.2 English certificate, certified by E.O.I Valladolid.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eskechivoi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ferrodmar/)  
 
