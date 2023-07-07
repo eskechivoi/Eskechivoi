@@ -24,7 +24,7 @@ Specific skills: LAMP Stack, Java J2EE, Bootstrap, jQuery
 ## Titles
 
 - B2.2 English certificate, certified by E.O.I Valladolid.
-- PWST __(Practical Web application Security and Testing)__, certified by TCM Security Academy.
+- PWST _(Practical Web application Security and Testing)_, certified by TCM Security Academy.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eskechivoi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ferrodmar/)  
 
