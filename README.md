@@ -9,6 +9,7 @@ I am also member of `SUGUS UVa`, the Cybersecurity Team at University of Vallado
 :mag_right: In my GitHub profile, you will find fullstack websites, cryptographic software, and some little proyects!
 
 Skills: HTML / JavaScript / CSS / Java / C++ / Python / Shell / PHP
+
 Specific skills: LAMP Stack, Java J2EE, Bootstrap, jQuery
 
 - 🔭 I’m currently working on fullstack website desing, java cryptographic environment and C++ libraries. 
