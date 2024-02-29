@@ -10,7 +10,7 @@ I am also member of `SUGUS UVa`, the Cybersecurity Team at University of Vallado
 
 Skills: HTML / JavaScript (React, Express, NodeJS) / CSS (Bootstrap) / Java / Kotlin / C++ / Python / Shell / 
 
-Specific skills: LAMP Stack, Java J2EE, Bootstrap, jQuery, 
+Specific skills: MERN Stack, LAMP Stack, Java J2EE, Bootstrap, jQuery, 
 
 - 🔭 I’m currently working on fullstack website desing.
 - 🌱 I’m currently learning about DevSecOps. 
