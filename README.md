@@ -4,7 +4,7 @@
 
 I study at University of Valladolid, in Spain, and i am interested in `Web Stack Security`, `DevSecOps` and `Web audit/pentesting`.
 
-I am also member of `SUGUS UVa`, the Cybersecurity Team at University of Valladolid. I've designed the front-end of the page. You can see the [repo here](https://github.com/eskechivoi/Sugus_web), and also you can visit the actual website, [sugusuva.es](https://sugusuva.es).
+I am also member of `SUGUS UVa`, the Cybersecurity Team at University of Valladolid. I've designed the front-end of the page. You can visit the actual website, [sugusuva.es](https://sugusuva.es).
 
 :mag_right: In my GitHub profile, you will find fullstack websites, cryptographic software, and some little proyects!
 
