@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fernando
 ### I am a  IT student at University of Valladolid
-![I am a  IT student at University of Valladolid](./github_banner.png)
+![I am a  IT student at University of Valladolid](./banner.png)
 
 I study at University of Valladolid, in Spain, and i am interested in `Web Stack Security`, `DevSecOps` and `Web audit/pentesting`.
 
