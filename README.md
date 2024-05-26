@@ -2,7 +2,9 @@
 ### I am a  IT student at University of Valladolid
 ![I am a  IT student at University of Valladolid](./banner.png)
 
-I study at University of Valladolid, in Spain, and i am interested in `DevSecOps` and `Web audit/pentesting`.
+I studied at University of Valladolid, in Spain. I did my internship and bachelor thesis at the Hochschule Kaiserslautern, Zweibrücken, Germany.
+
+I am interested in `DevSecOps` and `Web audit/pentesting`.
 
 I am also member of `SUGUS UVa`, the Cybersecurity Team at University of Valladolid. I fully developed and deployed the association's website. You can visit the actual website, [sugusuva.es](https://sugusuva.es).
 
