@@ -6,11 +6,11 @@ I studied at University of Valladolid, in Spain. I did my internship and bachelo
 
 I am also member of `SUGUS UVa`, the Cybersecurity Team at University of Valladolid. I fully developed and deployed the association's website. You can visit the actual website, [sugusuva.es](https://sugusuva.es).
 
-I am interested in `DevSecOps` and `Web audit/pentesting`.
+I am interested in `DevSecOps` and test automation.
 
 :mag_right: In my GitHub profile, you will find cibersecurity challenges, centered on web pentesting, and some little proyects!
 
-Skills: Python / C++ / Shell / JavaScript (React, Express, NodeJS) / Java / Kotlin /  
+Skills: Python / C++ / Bash / JavaScript (React, Express, NodeJS) / Java / Kotlin /  
 
 Technologies: Git / Docker / Jenkins /
 
@@ -19,7 +19,7 @@ Technologies: Git / Docker / Jenkins /
 
 ## Experience
 
-- Python Developer (with Robot Framework)
+- Python Developer & Test Engineer (with Robot Framework)
 - Web Pentesting, certified by TCM Security Academy.
 - Design, manteinance and deploy of the SUGUS web page. ([sugusuva.es](https://sugusuva.es))
 - Full Stack development using Java J2EE.
