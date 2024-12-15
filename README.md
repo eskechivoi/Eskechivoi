@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fernando
 ### DevSecOps and Python Developer
-![I am a  IT student at University of Valladolid](./banner.png)
+![I am a  IT student at University of Valladolid](./new_banner.jpeg)
 
 I studied at University of Valladolid, in Spain. I did my internship and bachelor thesis at the Hochschule Kaiserslautern, Zweibrücken, Germany.
 
